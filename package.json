@@ -6,7 +6,7 @@
     "start": "n8n"
   },
   "engines": {
-    "node": ">=20"
+    "node": "22.x"
   },
   "dependencies": {
     "n8n": "1.89.2"
